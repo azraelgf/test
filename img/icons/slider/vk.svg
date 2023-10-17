@@ -1,0 +1,16 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="VK Logo 1">
+<g id="Clip path group">
+<mask id="mask0_50_408" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="60" height="60">
+<g id="clip0_2_40">
+<path id="Vector" d="M59.703 0H0.297028V60H59.703V0Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask0_50_408)">
+<g id="Group">
+<path id="Vector_2" d="M31.906 43.2252C18.3664 43.2252 10.6437 33.8502 10.3219 18.2502H17.1041C17.3269 29.7002 22.3268 34.5502 26.2871 35.5502V18.2502H32.6735V28.1251C36.5844 27.7002 40.6928 23.2002 42.079 18.2502H48.4653C47.4009 24.3502 42.9454 28.8502 39.7771 30.7002C42.9454 32.2002 48.02 36.1252 49.9507 43.2252H42.9207C41.4108 38.4752 37.6488 34.8002 32.6735 34.3002V43.2252H31.906Z" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+</svg>
